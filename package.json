@@ -1,0 +1,24 @@
+{
+  "name": "nexi-telegram-bot-nexination",
+  "version": "1.0.0",
+  "description": "Telegram messenger nexination bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nexination/node-telegram-bot-nexination.git"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Kristian B",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nexination/node-telegram-bot-nexination/issues"
+  },
+  "homepage": "https://github.com/Nexination/node-telegram-bot-nexination#readme"
+}
